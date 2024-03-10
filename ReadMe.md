@@ -1,7 +1,9 @@
 Nombre del proyecto:
-Conversor de monedas
+
+**Conversor de monedas**
 
 Descripción:
+    
     Este proyecto contiene código en lenguaje de programación c; el funcionamiento del código consiste en pedirle al usuario que seleccione una opción, posteriormente dicha selección será usada para realizar la operación ya sea convertir de quetzales a euros o de quetzales a dólares o viceversa, para ello tiene integradas dichas operaciones que ayudan a la conversión y datos o variables que establecen el valor para realizar la conversión.
 
 Prerrequisitos:
